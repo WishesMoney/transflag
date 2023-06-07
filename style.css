@@ -1,0 +1,33 @@
+p {
+    font-size: 9rem;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+}
+#blue p{
+    color: #5BCEFA;
+}
+
+#pink p{
+    color: #F5A9B8;
+}
+
+#white p {
+    color: white;
+}
+
+div {
+    height: 180px;
+}
+
+#blue {
+    background-color: #5BCEFA;
+}
+
+#pink {
+    background-color: #F5A9B8;
+}
+
+#white {
+    background-color: white;  
+}
